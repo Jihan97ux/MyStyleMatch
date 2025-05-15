@@ -25,7 +25,7 @@ A vector-based recommendation engine that leverages CLIP embeddings and OpenAI N
 
 | Landing Page                                                                                      |
 | ------------------------------------------------------------------------------------------------- |
-| ![Landing Page](https://github.com/Jihan97ux/MyStyleMatch/raw/main/screenshoots/landing_page.JPG) |
+| ![Landing Page](https://github.com/Jihan97ux/MyStyleMatch/screenshots/landing_page.JPG) |
 
 ---
 
@@ -37,10 +37,10 @@ A vector-based recommendation engine that leverages CLIP embeddings and OpenAI N
 
 | Upload Section                                                                                                |
 | ------------------------------------------------------------------------------------------------------------- |
-| ![Upload Section](https://github.com/Jihan97ux/MyStyleMatch/raw/main/screenshoots/upload_section.JPG)         |
-| ![Upload Section](https://github.com/Jihan97ux/MyStyleMatch/raw/main/screenshoots/upload_outfit.JPG)          |
-| ![Upload Section](https://github.com/Jihan97ux/MyStyleMatch/raw/main/screenshoots/upload_outfit_loading.JPG)  |
-| ![Upload Section](https://github.com/Jihan97ux/MyStyleMatch/raw/main/screenshoots/upload_outfit_berhasil.JPG) |
+| ![Upload Section](https://github.com/Jihan97ux/MyStyleMatch/screenshots/upload_section.JPG)         |
+| ![Upload Section](https://github.com/Jihan97ux/MyStyleMatch/screenshots/upload_outfit.JPG)          |
+| ![Upload Section](https://github.com/Jihan97ux/MyStyleMatch/screenshots/upload_outfit_loading.JPG)  |
+| ![Upload Section](https://github.com/Jihan97ux/MyStyleMatch/screenshots/upload_outfit_berhasil.JPG) |
 
 * If the user chooses **Decline**, they will remain in the Upload Section.
 
@@ -57,9 +57,9 @@ A vector-based recommendation engine that leverages CLIP embeddings and OpenAI N
 
 | Prompt Section                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------- |
-| ![Prompt Section](https://github.com/Jihan97ux/MyStyleMatch/raw/main/screenshoots/prompt_section.JPG)             |
-| ![Prompt Section](https://github.com/Jihan97ux/MyStyleMatch/raw/main/screenshoots/prompt_rekomendasi.JPG)         |
-| ![Prompt Section](https://github.com/Jihan97ux/MyStyleMatch/raw/main/screenshoots/prompt_rekomendasi_loading.JPG) |
+| ![Prompt Section](https://github.com/Jihan97ux/MyStyleMatch/screenshots/prompt_section.JPG)             |
+| ![Prompt Section](https://github.com/Jihan97ux/MyStyleMatch/screenshots/prompt_rekomendasi.JPG)         |
+| ![Prompt Section](https://github.com/Jihan97ux/MyStyleMatch/screenshots/prompt_rekomendasi_loading.JPG) |
 
 ---
 
@@ -70,7 +70,7 @@ A vector-based recommendation engine that leverages CLIP embeddings and OpenAI N
 
 | Result Section                                                                                           |
 | -------------------------------------------------------------------------------------------------------- |
-| ![Result Section](https://github.com/Jihan97ux/MyStyleMatch/raw/main/screenshoots/hasil_rekomendasi.JPG) |
+| ![Result Section](https://github.com/Jihan97ux/MyStyleMatch/screenshots/hasil_rekomendasi.JPG) |
 
 ---
 
@@ -85,11 +85,11 @@ The system handles various errors and provides clear feedback:
 
 | Error Examples                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![Error](https://github.com/Jihan97ux/MyStyleMatch/raw/main/screenshoots/upload_outfit_missing_kategori.JPG)                   |
-| ![Error](https://github.com/Jihan97ux/MyStyleMatch/raw/main/screenshoots/upload_outfit_same_outfit.JPG)                        |
-| ![Error](https://github.com/Jihan97ux/MyStyleMatch/raw/main/screenshoots/prompt_rekomendasi_kategori_not_in_dataset.JPG)       |
-| ![Error](https://github.com/Jihan97ux/MyStyleMatch/raw/main/screenshoots/prompt_rekomendasi_kategori_not_in_dataset_alert.JPG) |
-| ![Error](https://github.com/Jihan97ux/MyStyleMatch/raw/main/screenshoots/hasil_rekomendasi_dengan_kategori_not_in_dataset.JPG) |
+| ![Error](https://github.com/Jihan97ux/MyStyleMatch/screenshots/upload_outfit_missing_kategori.JPG)                   |
+| ![Error](https://github.com/Jihan97ux/MyStyleMatch/screenshots/upload_outfit_same_outfit.JPG)                        |
+| ![Error](https://github.com/Jihan97ux/MyStyleMatch/screenshots/prompt_rekomendasi_kategori_not_in_dataset.JPG)       |
+| ![Error](https://github.com/Jihan97ux/MyStyleMatch/screenshots/prompt_rekomendasi_kategori_not_in_dataset_alert.JPG) |
+| ![Error](https://github.com/Jihan97ux/MyStyleMatch/screenshots/hasil_rekomendasi_dengan_kategori_not_in_dataset.JPG) |
 
 ---
 
