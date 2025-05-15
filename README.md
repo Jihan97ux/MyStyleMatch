@@ -91,7 +91,7 @@ The system handles various errors and provides clear feedback:
 | Error Examples                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | ![Error](https://github.com/Jihan97ux/MyStyleMatch/blob/main/screenshots/upload_outfit_missing_kategori.JPG)                   |
-| ![Error](https://github.com/Jihan97ux/MyStyleMatch/blob/main/screenshots/upload_outfit_same_outfit.JPG)                        |
+| ![Error](https://github.com/Jihan97ux/MyStyleMatch/blob/main/screenshots/upload_outfit_same_image.JPG)                        |
 | ![Error](https://github.com/Jihan97ux/MyStyleMatch/blob/main/screenshots/prompt_rekomendasi_kategori_not_in_dataset.JPG)       |
 | ![Error](https://github.com/Jihan97ux/MyStyleMatch/blob/main/screenshots/prompt_rekomendasi_kategori_not_in_dataset_alert.JPG) |
 | ![Error](https://github.com/Jihan97ux/MyStyleMatch/blob/main/screenshots/hasil_rekomendasi_dengan_kategori_not_in_dataset.JPG) |
