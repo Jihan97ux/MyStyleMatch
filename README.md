@@ -25,7 +25,7 @@ A vector-based recommendation engine that leverages CLIP embeddings and OpenAI N
 
 | Landing Page                                                                                      |
 | ------------------------------------------------------------------------------------------------- |
-| ![Landing Page](https://github.com/Jihan97ux/MyStyleMatch/screenshots/landing_page.JPG) |
+| ![Landing Page](https://github.com/Jihan97ux/MyStyleMatch/blob/main/screenshots/landing_page.JPG) |
 
 ---
 
