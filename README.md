@@ -109,7 +109,8 @@ after updated handle submit promot, dress and skirt are not compatible, system r
 
 * 🖼️ OpenAI CLIP for image-text embeddings
 * 🗄️ Pinecone vector database for similarity search
-* 🐍 Python, FastAPI (optional)
+* 🐍 Python, FastAPI
+* ⚙️ Next, Typescript
 * 💻 Google Colab for prototyping and demonstration
 
 ---
@@ -123,7 +124,7 @@ after updated handle submit promot, dress and skirt are not compatible, system r
 > *"I want to attend my friend's wedding, I don't know what to wear, recommend me an elegant yet simple outfit."*
 
 > **Result:**
-> The system retrieves the outfit that best matches the semantic meaning of the prompt.
+> The system retrieves the outfit that best matches the semantic meaning of the prompt with best compatibility between selected outfit categories. 
 
 ---
 
