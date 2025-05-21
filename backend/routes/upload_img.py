@@ -18,7 +18,7 @@ def process_image(image: Image.Image):
     unique_filename = f"{uuid.uuid4()}.png"
     return output_image, unique_filename
 
-def is_similar_image(index, new_vector, similarity_threshold=0.95, top_k=5):
+def is_similar_image(index, new_vector, similarity_threshold=0.98, top_k=5):
 
     results = index.query(vector=new_vector, top_k=top_k, include_values=False, include_metadata=True)
     

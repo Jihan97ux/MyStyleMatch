@@ -102,6 +102,11 @@ export default function OutfitApp() {
       return
     }
 
+    if (selectedCategories.includes("dress") && selectedCategories.includes("skirt")) {
+      const proceed = window.confirm("Dress dan skirt tidak cocok dipadukan!\nLanjutkan pencarian?")
+      if (!proceed) return
+    }
+
     console.log("Attempting to send request with:", { 
       prompt: promptText, 
       outfit_options: selectedCategories 
